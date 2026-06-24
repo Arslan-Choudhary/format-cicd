@@ -1,1 +1,1 @@
-console.log("devops CI/CD actions")
+console.log('devops CI/CD actions')
